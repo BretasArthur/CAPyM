@@ -1,8 +1,6 @@
 # CAPyM
- Some codes releated to CAPM and portifolio management in Python.
+These are some codes related to CAPM and portfolio management in Python.
 
- First get some data directly in the notebook from yahoo finance,
- then calculate some stock beta,
- finally do some portifolio management.
+The first one was build using US companies, and the second, Brazilian companies.
    
  by Arthur
