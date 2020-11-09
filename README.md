@@ -14,4 +14,13 @@ Where the Beta represents the sensitivity of an asset in comparison with a bench
 
 ## Python Libraries
 
+The notebooks in this repository will rely on [yfinance](https://pypi.org/project/yfinance/) to import data from yahoo finance directly into the code, [pandas](https://pandas.pydata.org/docs/) will be used for data wrangling, [matplotlib](https://matplotlib.org/3.3.2/contents.html) will be preferred for visualization, and [stats](https://docs.scipy.org/doc/scipy/reference/stats.html) module from SciPy will be the source of the statistical functions.
+
+.. code:: python
+
+    import yfinance as yf
+    import pandas as pd
+    import matplotlib.pyplot as plt
+    from scipy import stats
+
 (...)
