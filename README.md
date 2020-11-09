@@ -25,6 +25,6 @@ The notebooks in this repository will rely on [yfinance](https://pypi.org/projec
 
 ------------
 
-Please drop me a note with feedback, contribute to this repository or send me a message on [LinkedIn](https://www.linkedin.com/in/arthurbretas/).
+Please drop me a note with feedback, contribute to this repository and/or send me a message on [LinkedIn](https://www.linkedin.com/in/arthurbretas/).
 
 **Arthur Bretas**
