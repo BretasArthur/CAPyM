@@ -10,7 +10,7 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Capital_asset_pricing_mod
 
 Where the Beta represents the sensitivity of an asset in comparison with a benchmark:
 
-![Beta Formula] (https://wikimedia.org/api/rest_v1/media/math/render/svg/324ae3c4d7c5bf5816517265100de60f9f603547)
+![Beta Formula](https://wikimedia.org/api/rest_v1/media/math/render/svg/324ae3c4d7c5bf5816517265100de60f9f603547)
 
 ##Python Libraries
 
