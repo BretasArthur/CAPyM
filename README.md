@@ -12,6 +12,6 @@ Where the Beta represents the sensitivity of an asset in comparison with a bench
 
 ![Beta Formula](https://wikimedia.org/api/rest_v1/media/math/render/svg/324ae3c4d7c5bf5816517265100de60f9f603547)
 
-##Python Libraries
+## Python Libraries
 
 (...)
