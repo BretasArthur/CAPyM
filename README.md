@@ -22,3 +22,7 @@ The notebooks in this repository will rely on [yfinance](https://pypi.org/projec
     from scipy import stats
 
 (...)
+
+------------
+
+**Arthur Bretas**
