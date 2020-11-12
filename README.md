@@ -25,11 +25,11 @@ The notebooks in this repository will rely on [yfinance](https://pypi.org/projec
 
 As a first effort, two Brazilian companies were selected and compared to the iBovespa benchmark to find the beta: Petrobras and Itaú. Some graphs were built as well to assist the visualization.
 
-[1.Calculating the Beta - Petrobras & Itaú](https://github.com/BretasArthur/CAPyM/blob/main/1.%20Calculating%20the%20Beta%20-%20Petrobras%20%26%20Ita%C3%BA.ipynb)
+[1. Calculating the Beta - Petrobras & Itaú](https://github.com/BretasArthur/CAPyM/blob/main/1.%20Calculating%20the%20Beta%20-%20Petrobras%20%26%20Ita%C3%BA.ipynb)
 
 and a simpler example was made for American companies.
 
-[Calculating the Beta - Netflix & Amazon](https://github.com/BretasArthur/CAPyM/blob/main/2.%20Calculating%20the%20Beta%20-%20Netflix%20%26%20Amazon.ipynb)
+[2. Calculating the Beta - Netflix & Amazon](https://github.com/BretasArthur/CAPyM/blob/main/2.%20Calculating%20the%20Beta%20-%20Netflix%20%26%20Amazon.ipynb)
 
 (...)
 
